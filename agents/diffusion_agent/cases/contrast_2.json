@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Generative AI language models",
+  "intended_application": "Autonomous customer-facing support replies with no human review before sending",
+  "organization": "Hypothetical US B2B software firm with 150 employees and 20 support representatives",
+  "industry_sector": "US software and customer support; target peers are US B2B software firms with 100\u2013249 employees",
+  "business_need": "Reduce time spent drafting routine answers without worsening correctness or customer trust",
+  "users_stakeholders": "Support representatives, customers, support manager, security and knowledge-base owners",
+  "adoption_posture": "Aggressive early adopter; willing to experiment before peers",
+  "capabilities_constraints": "Existing ticket system and curated knowledge base; one integration engineer; no production AI deployment assumed; limited evaluation capacity",
+  "risk_consequence_context": "Unreviewed inaccurate instructions or commitments can immediately reach customers; privacy and reputation consequences",
+  "management_question": "What does diffusion imply for timing of autonomous support experimentation over six months? Do not decide full adoption.",
+  "time_horizon": "Next six months from 27 October 2026",
+  "additional_context": "All company details are scenario assumptions, not observed facts. Use records/evidence_brief.md, frozen as of 27 October 2026; no private company data."
+}
