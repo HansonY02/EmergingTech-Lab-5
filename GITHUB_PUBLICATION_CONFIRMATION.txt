@@ -1,0 +1,11 @@
+GitHub publication confirmation
+Student: Zonghan Yang | NetID zy3609
+Repository: https://github.com/HansonY02/EmergingTech-Lab-5
+Branch: main
+Date: 28 October 2026
+Verified source snapshot: 9d5f5bd7bf4bd8c7a18c0c0ac6d0864c8b84222e
+Submission documents upload commit: 14e2fc5cd6ed60430d4aedfa9e9c4debe346314c
+Updated Markdown Agent Record commit: 4afcdd31e84753b82cae1fefcc268dd36c147d2a
+Final source and reports verification snapshot: 760b666e5259797d2c7c73794a9a7e7b3bb4def9
+The repository ZIP was downloaded from GitHub and all nine submission files and updated records matched local bytes. Frozen core and specialist checks passed on the published source. These are confirmed GitHub browser commits, separate from original local history.
+The enclosing deliverables ZIP is uploaded subsequently as a convenience download; its upload commit is not self-referenced here.
