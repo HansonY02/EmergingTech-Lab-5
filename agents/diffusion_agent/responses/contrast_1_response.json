@@ -1,0 +1,70 @@
+{
+  "agent": {
+    "name": "Emerging Technology Diffusion Agent",
+    "specialty": "Rogers diffusion analysis",
+    "version": "1.0"
+  },
+  "analytical_question": "How far have generative AI and the specified support application diffused, what shapes that diffusion, and what timing implication follows for this organization?",
+  "general_et_finding": "Generative AI has moved beyond innovators and early adopters into broad workplace use in the United States. Early-majority participation is a qualitative interpretation, not a measured Rogers category or proof of universal organizational maturity. The social system here is US employed adults aged 18\u201364; the measure is self-reported use for work, not firm deployment. RPS/FRED reports 40.55% in Q3 2026 versus 45.20% in Q2 and 37.36% a year earlier (S2). The latest decline contradicts uninterrupted-growth language; sampling uncertainty was not evaluated. Innovators experiment with novel configurations, early adopters provide reference cases, early-majority users seek demonstrated usefulness, late-majority users seek established practice, and laggards defer until necessity. No surveyed individual or firm is assigned to these categories from the aggregate rate alone.",
+  "application_finding": "Human-reviewed software support drafting has demonstrated operational use, but its diffusion stage among US B2B software firms with 100\u2013249 employees is undetermined. Relative advantage: favorable signal from the assistant study (S4), with uncertain transfer to local ticket mix. Compatibility: favorable under the case assumption of a curated knowledge base and existing human send authority; actual workflow fit is untested. Complexity: inhibits spread through retrieval quality, access controls, integration and evaluation work; this is analytical inference. Trialability: favorable because drafts can be assessed offline and tested reversibly with human review; local feasibility remains untested. Observability: potentially favorable through visible editing, resolution time and audited correctness, but benefits must be measured net of review time. Information-sector and size-class AI rates (S3) do not identify generative AI support penetration or this joint peer group. Industry and application stages are therefore qualified rather than assigned early majority.",
+  "organization_specific_finding": "This conservative version of the same hypothetical firm prefers established peer practice and sustained controls, resembling late-majority preferences behaviorally. That does not prove late-majority adoption timing, nor change the general or application evidence. The same support manager, engineer, experienced representatives and complementary assets remain candidate diffusion influences. Higher tolerance for waiting and lower tolerance for uncertain peer evidence justify delaying customer-facing exposure. Actual peer position remains unknown.",
+  "evidence": [
+    {
+      "claim": "Rogers provides adopter categories and the five perceived attributes, not a fixed maturity score.",
+      "source_or_reference": "S1 Rogers (2003), fifth edition; publisher author excerpt: https://www.simonandschuster.com/books/Diffusion-of-Innovations-5th-Edition/Everett-M-Rogers/9780743222099",
+      "date_or_recency": "2003 framework; checked 27 October 2026",
+      "evidence_type": "Original theoretical framework via publisher excerpt",
+      "notes": "Five attributes cross-checked against publisher excerpt of fourth edition; framework does not supply current AI stage."
+    },
+    {
+      "claim": "US employed-adult generative AI work use was 40.54550% in Q3 2026, down from 45.19932% in Q2.",
+      "source_or_reference": "S2 Bick, Blandin and Deming, RPS via FRED: https://fred.stlouisfed.org/series/RPSGENAIUSAGESHAREWORK",
+      "date_or_recency": "Q3 2026; updated 20 October 2026; checked 27 October",
+      "evidence_type": "Original survey series disseminated by FRED",
+      "notes": "US employed adults 18\u201364, quarterly self-report, not seasonally adjusted; neither firms nor application penetration."
+    },
+    {
+      "claim": "May Census AI rates are broad AI context, not a support-specific denominator.",
+      "source_or_reference": "S3 US Census Bureau, 26 May 2026: https://www.census.gov/library/stories/2026/05/ai-use-businesses.html",
+      "date_or_recency": "Period ending 3 May 2026; checked 27 October 2026",
+      "evidence_type": "Original government survey analysis",
+      "notes": "32% for 100\u2013249 employees and 39.7% for Information are separate groups. Any AI in any business function. Newer October downloads not analyzed."
+    },
+    {
+      "claim": "One support-assistant deployment reported higher issues resolved per hour.",
+      "source_or_reference": "S4 Brynjolfsson, Li and Raymond (2023), Generative AI at Work: https://www.nber.org/papers/w31161 ; https://www.gsb.stanford.edu/faculty-research/working-papers/generative-ai-work",
+      "date_or_recency": "November 2023 working-paper abstract; checked 27 October 2026",
+      "evidence_type": "Original research abstract in search index",
+      "notes": "5,179 agents; 14% mean improvement in that version. Direct pages returned 403. No prevalence, autonomous safety or local ROI inference."
+    },
+    {
+      "claim": "NIST offers voluntary generative AI risk guidance.",
+      "source_or_reference": "S5 Autio et al. (2024), NIST AI 600-1: https://doi.org/10.6028/NIST.AI.600-1",
+      "date_or_recency": "26 July 2024; publication page checked 27 October 2026",
+      "evidence_type": "Original public technical guidance",
+      "notes": "Governance resource, not certification or evidence of adoption."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "No matched-peer, support-specific, current production-use denominator or longitudinal adoption dates were found.",
+    "Worker-use rates cannot establish firm rollout or autonomous support penetration. The latest quarterly worker estimate decreased.",
+    "S3 measures broader AI and is older than available October releases. Separate sector and size rates cannot be combined into a joint peer rate.",
+    "S4 is one older assisted-work deployment; indexed abstract verification is limited and does not establish diffusion or autonomous reliability.",
+    "All company details and change-agent roles are hypothetical. No interviews or actual operational measurements were performed."
+  ],
+  "confidence_and_uncertainty": "Moderate confidence that general workplace use extends beyond pioneers; low confidence in a precise Rogers stage and no defensible measured category for the target peer group. Moderate confidence in the direction of the five application mechanisms; low confidence in local effect sizes. Timing advice is conditional on assumed capabilities.",
+  "value_opportunity_implication": "Observed assistant benefits justify investigating whether drafting time and novice learning improve locally. Do not promise the study average or treat it as an ROI estimate.",
+  "risk_governance_implication": "Knowledge quality, privacy and review capacity are the principal inferred inhibitors. Human send authority makes errors more containable but does not remove them. Apply appropriate evaluation and governance guidance (S5); the Adoption Agent must judge implementation feasibility and acceptable risk.",
+  "recommendation_management_implication": "Begin a six-month monitoring and offline evaluation program now. For the first three months, seek matched-peer production references and test de-identified historical tickets. Reconsider a small human-reviewed live trial at month three only if controls, staffing and sustained quality evidence are available; otherwise continue offline assessment through month six. Do not treat conservative posture as evidence that the technology itself is immature.",
+  "change_monitoring_triggers": [
+    "Monthly: refresh the RPS/FRED series and examine direction without asserting statistical significance from point estimates alone.",
+    "Within one month: obtain recent matched-peer evidence reporting denominator, production versus pilot status, human review, firm size and geography.",
+    "Before a live trial: establish representative baseline metrics for time per ticket, audited correctness, reopen rate and customer satisfaction; require baseline-equivalent quality and lower total handling time including review. These are proposed criteria, not observed results.",
+    "At month three: reassess if documentation quality, evaluation staffing or data-handling controls remain inadequate; return to offline work if a material privacy event or customer-harming error appears."
+  ],
+  "abstention_or_more_information_needed": [
+    "Abstain on the claim that most comparable software firms use generative AI support drafting, or that this application is early majority. Require a recent representative survey of US B2B software firms with 100\u2013249 employees, a stated sample and denominator, uncertainty estimates and separate pilot/production and assisted/autonomous measures.",
+    "Do not classify the focal firm as ahead of or behind peers without verified peer adoption dates and comparable use definitions.",
+    "Do not infer autonomous diffusion, safety or a full adoption recommendation from assisted-work evidence."
+  ]
+}
