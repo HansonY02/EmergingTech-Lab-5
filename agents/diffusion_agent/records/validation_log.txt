@@ -1,0 +1,15 @@
+primary: VALIDATION PASSED
+
+contrast_1: VALIDATION PASSED
+
+contrast_2: VALIDATION PASSED
+
+FROZEN CORE INTACT
+
+primary: full output schema PASS
+contrast_1: full output schema PASS
+contrast_2: full output schema PASS
+Three input schemas PASS
+Saved-artifact invariance, contrast, five-attribute and abstention checks PASS
+Negative control: schema passes; general evidence invariance FAILS as intended
+Manual review still required for source validity, reasoning, transfer and scope
