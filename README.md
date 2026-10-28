@@ -1,3 +1,18 @@
+# Assignment 5 Emerging Technology Diffusion Agent
+
+Zonghan Yang | NetID zy3609
+
+This repository contains the completed Rogers diffusion specialist for generative AI support drafting, built on the frozen MASY1800 scaffold.
+
+- Agent: [instructions and usage](agents/diffusion_agent/README.md)
+- Submission reports: [Word documents and handoff](submission/)
+- Verification: [evidence and test records](agents/diffusion_agent/records/)
+- Inputs: [primary and contrast cases](agents/diffusion_agent/cases/)
+- Outputs: [structured responses](agents/diffusion_agent/responses/)
+- Prompt packets: [work folder](work/)
+
+Run `python tools/check_frozen_core.py` and `python agents/diffusion_agent/records/check_specialist.py` after cloning. The original scaffold guidance follows.
+
 # MASY1-GC 1800 Common Emerging Technology Agent Scaffold v1.0
 
 This is the **frozen course baseline** distributed through Brightspace for Emerging Technologies Assignments 2-8.
