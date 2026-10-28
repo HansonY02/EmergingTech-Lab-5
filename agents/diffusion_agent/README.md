@@ -8,4 +8,4 @@ Read records/revision_log.md for the deliberately constructed failing baseline a
 Student: Zonghan Yang
 NetID: zy3609
 Repository: https://github.com/HansonY02/EmergingTech-Lab-5
-Local branch: assignment-5-diffusion. Remote publication is not verified.
+GitHub branch: main. Verified source snapshot: 9d5f5bd7bf4bd8c7a18c0c0ac6d0864c8b84222e. Published through GitHub website on 28 October 2026. Original local development branch: assignment-5-diffusion.
