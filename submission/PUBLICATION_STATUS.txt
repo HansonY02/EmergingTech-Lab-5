@@ -1,0 +1,13 @@
+Student: Zonghan Yang
+NetID: zy3609
+GitHub repository: https://github.com/HansonY02/EmergingTech-Lab-5
+Published branch: main
+Verified source snapshot commit: 9d5f5bd7bf4bd8c7a18c0c0ac6d0864c8b84222e
+Source commit URL: https://github.com/HansonY02/EmergingTech-Lab-5/commit/9d5f5bd7bf4bd8c7a18c0c0ac6d0864c8b84222e
+Publication date: 28 October 2026
+Method: direct uploads and commits using the signed-in GitHub website; no Git push authentication was available.
+Verification: repository ZIP downloaded from GitHub; frozen-core hashes and specialist checks passed. All substantive specialist source, case, response and evidence files matched local bytes.
+Original local development branch: assignment-5-diffusion
+Original local source commit: ce0d996f2bf51dd6783a8d49cd0d201e1e93ee4c
+Local submission preparation commit: 967b9782cd59650df0d86dab57a1b73360e60558
+Scope: the verified source snapshot precedes this publication-record update and the upload of revised submission documents. A later document-upload commit is a separate publication event; no self-referential commit hash is claimed.
