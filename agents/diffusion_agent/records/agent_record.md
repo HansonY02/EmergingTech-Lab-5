@@ -8,11 +8,11 @@
 
 **Date** 27 October 2026
 
-**GitHub repository** https://github.com/HansonY02/EmergingTech-Lab-5 . Repository supplied by student; remote contents and publication of this local revision have not been verified.
+**GitHub repository** https://github.com/HansonY02/EmergingTech-Lab-5; published and source verified on 28 October 2026.
 
-**Branch** assignment-5-diffusion
+**Branch** main on GitHub; original local development branch assignment-5-diffusion.
 
-**Commit** See accompanying VERSION_RECEIPT.txt for the exact commit covering specialist files, cases, responses, tests and this Markdown record.
+**Commit** 9d5f5bd7bf4bd8c7a18c0c0ac6d0864c8b84222e is the verified GitHub source snapshot before this publication-record update. Original local source ce0d996f2bf51dd6783a8d49cd0d201e1e93ee4c is preserved separately.
 
 **Frozen scaffold version** MASY1800_ET_Agent_Scaffold_v1_0; hash checker passed.
 
